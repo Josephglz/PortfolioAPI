@@ -3,11 +3,8 @@
 # Environment vars
 This project uses the following environment variables:
 
-| Name                          | Description                         | Default Value                                  |
-| ----------------------------- | ------------------------------------| -----------------------------------------------|
-|MYSQL_CONN           | Credentials for MySQL Connection            | "USER:root,PASSWORD:password,HOST:localhost,DB:dbname"      |
-|PORT           | Port for localhost            | "3000"      |
-
+- Use .env file to set the environment variables
+- Replace .env.example with .env
 
 # Pre-requisites
 - Install [Node.js](https://nodejs.org/en/) version 18.16.0
