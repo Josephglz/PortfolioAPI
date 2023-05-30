@@ -3,8 +3,8 @@
 # Environment vars
 This project uses the following environment variables:
 
-- Use .env file to set the environment variables
-- Replace .env.example with .env
+- Use `.env` file to set the environment variables
+- Replace `.env.example` with `.env`
 
 # Pre-requisites
 - Install [Node.js](https://nodejs.org/en/) version 18.16.0
